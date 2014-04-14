@@ -1,0 +1,3 @@
+ -Xms64m -Xmx256m
+az_RPSLS
+az_RPSLS.jar,core.jar
